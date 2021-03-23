@@ -1,0 +1,1 @@
+export { default as SubComponentExample } from './sub-component-example'
