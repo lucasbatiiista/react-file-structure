@@ -3,7 +3,7 @@
 
 ##### Files Structure:
 
-~~~html
+~~~
 .gitignore
 package-lock.json
 package.json
@@ -52,6 +52,20 @@ src/
 ------------ global-component-example.scss
 ------------ index.js
 
+~~~
+
+## How to use
+
+1. Clone the repository
+
+~~~
+git clone https://github.com/lucasbatiiista/react-file-structure.git
+~~~
+
+2. Remove remote origin
+
+~~~
+git remote rm origin 
 ~~~
 
 
