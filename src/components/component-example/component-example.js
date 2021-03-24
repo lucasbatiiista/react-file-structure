@@ -12,11 +12,9 @@ import GlobalComponentExample from './../../packages/global-component-example'
 export default function ComponentExample() {
   return (
     <>
-
-      <GlobalComponentExample />
-
+      <h2>Component Example</h2>
       <SubComponentExample />
-
+      <GlobalComponentExample />
     </>
   )
 }
