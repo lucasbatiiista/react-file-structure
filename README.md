@@ -10,12 +10,12 @@ package.json
 README.md
 
 public/
------- favicon.ico
------- index.html
------- logo192.png
------- logo512.png
------- manifest.json
------- robots.txt
+--- favicon.ico
+--- index.html
+--- logo192.png
+--- logo512.png
+--- manifest.json
+--- robots.txt
 
 src/
 --- app.js
