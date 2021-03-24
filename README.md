@@ -68,6 +68,8 @@ git clone https://github.com/lucasbatiiista/react-file-structure.git
 git remote rm origin 
 ~~~
 
+3. Remove all unnecessary files/folders
 
+4. Then start your project
 
 Inspired by [Optimal File Structure](https://charles-stover.medium.com/optimal-file-structure-for-react-applications-f3e35ad0a145) on Medium
