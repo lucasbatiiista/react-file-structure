@@ -1,15 +1,7 @@
 import React from 'react'
-
-// components
-import { ComponentExample } from './components'
+import Routes from './routes'
 
 export default function App() {
-  return (
-    <div className="App">
-
-      <ComponentExample />
-
-    </div>
-  );
+  return <Routes />
 }
 

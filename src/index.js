@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 // styles
-import './assets/styles/main.scss'
+import './styles/main.scss'
 
 // components
-import App from './app';
+import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>

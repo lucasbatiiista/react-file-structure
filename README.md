@@ -79,4 +79,4 @@ npm install
 5. Then start your project
 
 
-Inspired by [Optimal File Structure](https://charles-stover.medium.com/optimal-file-structure-for-react-applications-f3e35ad0a145) on Medium
+Thanks in advance :)
