@@ -18,39 +18,79 @@ public/
 --- robots.txt
 
 src/
---- app.js
+--- App.js
 --- index.js
 
 --- assets/
-
 ------ images/
-
------- styles/
---------- colors.scss
---------- fonts.scss
---------- main.scss
---------- reset.scss
+--------- logo192.png
 
 --- components/
+------ DataDisplay/
+------ DataEntry/
+------ Feedback/
+------ Layout/
+------ Navigation/
+------ Other/
+------ General/
+--------- index.js
+--------- Button/
+------------ Button.js
+------------ button.scss
+------------ index.js
+--------- Icon/
+------------ Icon.js
+------------ icon.scss
+------------ index.js
+------------ images/
+--------------- icon-react.png
+
+--- pages/
+------ index.js
+------ Home/
+--------- Home.js
+--------- home.scss
+--------- index.js
+------ Page404/
+--------- Page404.js
+--------- page-404.scss
+--------- index.js
+------ Product/
+--------- index.js
+--------- Create/
+------------ Create.js
+------------ create.scss
+------------ index.js
+--------- Detail/
+------------ Detail.js
+------------ detail.scss
+------------ index.js
+--------- Edit/
+------------ Edit.js
+------------ edit.scss
+------------ index.js
+--------- List/
+------------ List.js
+------------ list.scss
+------------ index.js
+
+--- providers/
 ------ index.js
 
------- component-example/
---------- component-example.js
---------- component-example.scss
+--- routes/
+------ routes.js
+------ index.js
+
+--- services/
+------ api/
 --------- index.js
+--------- product.js
 
---------- images/
---------- components/
------------- sub-component-example/
---------------- sub-component-example.js
---------------- sub-component-example.scss
---------------- index.js
-
---- packages/
------- global-component-example/
------------- global-component-example.js
------------- global-component-example.scss
------------- index.js
+--- styles/
+------ colors.scss
+------ fonts.scss
+------ main.scss
+------ reset.scss
 
 ~~~
 

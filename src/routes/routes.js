@@ -12,7 +12,6 @@ export default function Routes() {
         <Route path="/product/create" component={Pages.Product.Create} />
         <Route path="/product/edit" component={Pages.Product.Edit} />
         <Route path="/product/:product_id" component={Pages.Product.Detail} />
-        <Route path="/users" component={Pages.User.List} />
 
         <Route path="/" exact component={Pages.Home} />
         <Route path="/" component={Pages.Page404} />
